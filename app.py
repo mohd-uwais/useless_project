@@ -9,7 +9,7 @@ model = joblib.load("holiday_predictor.pkl")
 LAT, LON = 10.5276, 76.2144
 API_URL = "https://api.open-meteo.com/v1/forecast"
 
-st.title("Kerala Holiday Prediction")
+st.title("Will Thrissur Collector give holiday Tommorow?")
 st.write("Predict whether the Collector will announce a holiday tomorrow based on weather data.")
 
 if st.button("Predict for Tomorrow"):
@@ -57,4 +57,5 @@ if st.button("Predict for Tomorrow"):
     else:
         st.warning("❌ Naale Modak illa.. Schoolil poyittu vaaa..")
         st.image(".\mammootty-vipin-ayilam.gif",use_container_width=True)
+
 
