@@ -53,9 +53,10 @@ if st.button("Predict for Tomorrow"):
     if pred == 1:
         st.confetti("Yay! Naale Modak illa..")
         st.balloons()
-        st.image(".\happy-salim-kumar.gif",use_container_width=True)
+        st.image("happy-salim-kumar.gif",use_container_width=True)
     else:
         st.warning("❌ Naale Modak illa.. Schoolil poyittu vaaa..")
-        st.image(".\mammootty-vipin-ayilam.gif",use_container_width=True)
+        st.image("mammootty-vipin-ayilam.gif",use_container_width=True)
+
 
 
