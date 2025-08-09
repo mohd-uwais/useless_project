@@ -52,7 +52,6 @@ For Software:
 
 # Diagrams
 ![Workflow](Workflow.png)
-*Add caption explaining your workflow*
 
 For Hardware:
 
@@ -68,8 +67,10 @@ For Hardware:
 *List out all components shown*
 
 ![Build](Add photos of build process here)
-*Explain the build steps*
-
+1.Dataset
+![](datasets.png)
+2.Code
+![](model_working.png)
 ![Final](Add photo of final product here)
 *Explain the final build*
 
