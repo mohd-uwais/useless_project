@@ -51,7 +51,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](workflow.png)
+![Workflow](Workflow.png)
 *Add caption explaining your workflow*
 
 For Hardware:
